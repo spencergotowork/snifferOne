@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\develop\\WPF\\SnifferOne\\WinformsMain\\WinformsExample.csproj": {}
+  },
+  "projects": {
+    "D:\\develop\\WPF\\SnifferOne\\WinformsMain\\WinformsExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\develop\\WPF\\SnifferOne\\WinformsMain\\WinformsExample.csproj",
+        "projectName": "WinformsExample",
+        "projectPath": "D:\\develop\\WPF\\SnifferOne\\WinformsMain\\WinformsExample.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\develop\\WPF\\SnifferOne\\WinformsMain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "D:\\develop\\WPF\\SharpPcap\\SharpPcap.csproj": {
+                "projectPath": "D:\\develop\\WPF\\SharpPcap\\SharpPcap.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

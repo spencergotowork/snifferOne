@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHm7ULSRJEHVhiQb76tda0bHHZoiWxdhdVp6fkayTuJx32YLqt77Qrodz1SOrFlAgK0iDjj/hpUSyRnWF6bbtQ==",
+  "success": true,
+  "projectFilePath": "D:\\develop\\WPF\\SnifferOne\\sniffer\\sniffer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\packetdotnet\\1.4.0\\packetdotnet.1.4.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

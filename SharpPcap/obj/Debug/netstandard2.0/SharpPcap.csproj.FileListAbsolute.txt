@@ -1,0 +1,11 @@
+D:\develop\WPF\sharppcap\SharpPcap\bin\Debug\netstandard2.0\SharpPcap.deps.json
+D:\develop\WPF\sharppcap\SharpPcap\bin\Debug\netstandard2.0\SharpPcap.dll
+D:\develop\WPF\sharppcap\SharpPcap\bin\Debug\netstandard2.0\SharpPcap.pdb
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.csproj.AssemblyReference.cache
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.GeneratedMSBuildEditorConfig.editorconfig
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.AssemblyInfoInputs.cache
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.AssemblyInfo.cs
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.csproj.CoreCompileInputs.cache
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.sourcelink.json
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.dll
+D:\develop\WPF\sharppcap\SharpPcap\obj\Debug\netstandard2.0\SharpPcap.pdb
